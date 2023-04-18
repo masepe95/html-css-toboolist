@@ -60,6 +60,50 @@ header{
     width: 50%;
     margin: auto;
     background-color: #fff;
-    margin-top: 5px;
+    margin-top: 0px;
     border-radius: 5px;
+}
+
+.first-list{
+   padding-top: 50px;
+   margin-top: 5px;
+}
+
+.main-task{
+    list-style-type: none;
+    font-size: 2.5rem;
+    font-weight: 900;
+    
+    
+}
+
+.down-arrow{
+    font-size: 1.2rem;
+    margin-right: 10px;
+    vertical-align: middle;
+    margin-left: 5%;
+}
+
+.small-task{
+    list-style-type: none;
+    font-size: 1.5rem;
+    font-weight: 200;
+    display: inline;
+    
+
+}
+
+.checkmark{
+    display: inline;
+    margin-right: 10px;
+    vertical-align: middle;
+    margin-left: 5%;
+    color: green;
+    border: 3px solid green;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+li{
+    margin-bottom: 30px
 }
