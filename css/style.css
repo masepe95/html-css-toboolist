@@ -87,18 +87,6 @@ header{
     font-weight: 200;
 }
 
-.checkmark{
-    font-size: 1rem;
-    display: inline;
-    margin-right: 5px;
-    vertical-align: middle;
-    margin-left: 5%;
-    color: green;
-    border: 3px solid green;
-    border-radius: 50%;
-    padding: 2px;
-}
-
 li{
     padding-top: 50px;
 }
@@ -144,6 +132,18 @@ li{
     margin-left: 5%;
     color: red;
     border: 3px solid red;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.checkmark{
+    font-size: 1rem;
+    display: inline;
+    margin-right: 5px;
+    vertical-align: middle;
+    margin-left: 5%;
+    color: green;
+    border: 3px solid green;
     border-radius: 50%;
     padding: 2px;
 }
