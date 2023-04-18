@@ -135,3 +135,15 @@ li{
 #orange-editorial{
     background-color: #f29e33;
 }
+
+.undone{
+    font-size: 1rem;
+    display: inline;
+    margin-right: 5px;
+    vertical-align: middle;
+    margin-left: 5%;
+    color: red;
+    border: 3px solid red;
+    border-radius: 50%;
+    padding: 2px;
+}
