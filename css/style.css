@@ -33,7 +33,7 @@ header{
     margin: auto;
     background-color: #fff;
     margin-top: 30px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .button{
@@ -53,4 +53,13 @@ header{
     margin-right: 10px;
     cursor: pointer;
     
+}
+
+.list{
+    height: 1000px;
+    width: 50%;
+    margin: auto;
+    background-color: #fff;
+    margin-top: 5px;
+    border-radius: 5px;
 }
