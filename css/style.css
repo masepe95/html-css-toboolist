@@ -73,8 +73,6 @@ header{
     list-style-type: none;
     font-size: 2.5rem;
     font-weight: 900;
-    
-    
 }
 
 .down-arrow{
@@ -88,9 +86,6 @@ header{
     list-style-type: none;
     font-size: 1.5rem;
     font-weight: 200;
-    display: inline;
-    
-
 }
 
 .checkmark{
@@ -106,15 +101,14 @@ header{
 }
 
 li{
-    margin-bottom: 30px
+    padding-top: 50px;
 }
 
 .task-class, .editorial{
     display: inline;
     font-size: 1rem;
-    border-radius: 30%;
+    border-radius: 40%;
     padding: 10px; 
     background-color: #45ABEA;
     color: #fff;
-
 }
