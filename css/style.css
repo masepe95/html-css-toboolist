@@ -55,8 +55,8 @@ header{
     
 }
 
-.list{
-    height: 1000px;
+.list-container{
+    height: 1080px;
     width: 50%;
     margin: auto;
     background-color: #fff;
@@ -64,8 +64,7 @@ header{
     border-radius: 5px;
 }
 
-.first-list{
-   padding-top: 50px;
+.general-list{
    margin-top: 5px;
 }
 
