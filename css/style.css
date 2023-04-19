@@ -56,12 +56,12 @@ header{
 }
 
 .list-container{
-    height: 1080px;
+    height: auto;
     width: 50%;
     margin: auto;
     background-color: #fff;
-    margin-top: 0px;
     border-radius: 5px;
+    padding-bottom: 20px;
 }
 
 .general-list{
