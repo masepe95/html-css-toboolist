@@ -70,12 +70,12 @@ header{
 
 .main-task{
     list-style-type: none;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 900;
 }
 
 .down-arrow{
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-right: 10px;
     vertical-align: middle;
     margin-left: 5%;
@@ -83,7 +83,7 @@ header{
 
 .small-task{
     list-style-type: none;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 200;
 }
 
