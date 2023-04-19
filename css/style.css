@@ -94,7 +94,7 @@ li{
 .task-class, .editorial{
     display: inline;
     font-size: 1rem;
-    border-radius: 40%;
+    border-radius: 25px;
     padding: 10px; 
     background-color: #45ABEA;
     color: #fff;
